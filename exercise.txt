@@ -1,20 +1,28 @@
-MY ACTION PLAN
+Process Documentation: Configuration of VLANs on Network Switches
 
-Using the knowledge gained from this Module and your own personal experience, identify at least two things you want to improve in each of the three competencies.   Once you have identified what you can improve upon, think of the steps you can take to make those improvements.  
+Purpose: The purpose of this Standard Operating Procedure (SOP) is to establish a comprehensive and standardized process for configuring VLANs on network switches within the technology company. This SOP aims to ensure the efficient and secure operation of the network infrastructure by providing a step-by-step guide for VLAN configuration.
+Scope and Objectives: 
+Scope: This SOP covers the configuration of VLANs on network switches and applies to all network engineers responsible for maintaining and optimizing the company's network.
+Objectives:
+1. Provide a systematic approach to VLAN configuration to enhance network performance.
+2. Ensure consistency and standardization in VLAN setup across the network infrastructure.
+3. Improve security by implementing VLANs to control and segregate network traffic.
 
-CompetenciesWhat do you need to Improve?What Steps Will You Take?Giving/Receiving FeedbackConstructive Feedback Delivery. 
+Detailed Steps:
+1. Gather Information:
+* Collect details about the network topology, IP addressing, and VLAN requirements.
+2. Access Switch Configuration:
+* Log in to the network switch using appropriate credentials.
+3. Enter Configuration Mode:
+* Navigate to the configuration mode on the switch.
+4. Create VLANs:
+* Define VLANs based on gathered information.
+5. Assign VLANs to Ports:
+* Associate VLANs with specific switch ports.
+6. Configure VLAN Interfaces:
+* Set up virtual interfaces for each VLAN.
+7. Verify Configuration:
+* Confirm the successful configuration of VLANs using testing and verification tools.
+8. Documentation:
+* Update network documentation to reflect the changes made.
 
-
-Receiving Feedback Openly.Practice delivering feedback in a positive and constructive manner.
-
-Actively listen without interrupting when receiving feedback.Conflict ManagementProactive Conflict Resolution.
-
-
-
-Emotional Regulation in Conflict.Participate in conflict resolution training to enhance your skills in resolving conflicts promptly.
-
-Practice mindfulness techniques to stay calm during challenging situations.Working AutonomouslySetting clear priorities.
-
-Time management.Taking a time management course.
-
-Set reminders for tasks and deadline to improve accountability.
