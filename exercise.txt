@@ -9,20 +9,20 @@ Objectives:
 3. Improve security by implementing VLANs to control and segregate network traffic.
 
 Detailed Steps:
-1. Gather Information:
+Gather Information:
 * Collect details about the network topology, IP addressing, and VLAN requirements.
-2. Access Switch Configuration:
+Access Switch Configuration:
 * Log in to the network switch using appropriate credentials.
-3. Enter Configuration Mode:
+Enter Configuration Mode:
 * Navigate to the configuration mode on the switch.
-4. Create VLANs:
+Create VLANs:
 * Define VLANs based on gathered information.
-5. Assign VLANs to Ports:
+Assign VLANs to Ports:
 * Associate VLANs with specific switch ports.
-6. Configure VLAN Interfaces:
+Configure VLAN Interfaces:
 * Set up virtual interfaces for each VLAN.
-7. Verify Configuration:
+Verify Configuration:
 * Confirm the successful configuration of VLANs using testing and verification tools.
-8. Documentation:
+Documentation:
 * Update network documentation to reflect the changes made.
 
