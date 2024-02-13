@@ -26,3 +26,11 @@ Verify Configuration:
 Documentation:
 * Update network documentation to reflect the changes made.
 
+/*--------------------------------------------------------------
+comments from reviewer
+
+Great process document!
+To ensure clarity of your process document, I would suggest the following:
+- Use numbered lists to indicate your steps.
+- Indicate your target audience.
+--------------------------------------------------------------*/
